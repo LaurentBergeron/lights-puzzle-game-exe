@@ -1,2 +1,1 @@
-# lights-puzzle-game-webgl
-WebGL playable version of the game
+# lights-puzzle-game-exe
