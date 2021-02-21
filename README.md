@@ -1,14 +1,15 @@
-# lights-puzzle-game-exe
-Launch with LightsPuzzle.exe
+# the-colour-centre-exe
+Launch with TheColourCentre.exe
 
-[esc] to quit anytime
+* Controls
+** [wasd] movement
+** [click] activate
+** [esc] for menu
 
-# Music and SFX
+* Music and SFX from zapsplat.com
 
-from zapsplat.com
+* Brick wall image inspired from vecteezy.com
 
-# Thanks to 
-
-[Brackeyes](https://brackeys.com/)
-
-[catlikecoding](https://www.patreon.com/catlikecoding)
+* Very helpful tutorials
+** [Brackeyes](https://brackeys.com/)
+** [catlikecoding](https://www.patreon.com/catlikecoding)
