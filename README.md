@@ -1,4 +1,4 @@
-# the-colour-centre-exe
+# The Colour Centre
 Launch with TheColourCentre.exe
 
 * Controls
